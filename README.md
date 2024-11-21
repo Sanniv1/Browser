@@ -1,49 +1,47 @@
-🌐 Electron Web Browser
-A modern, lightweight web browser built using Electron. This browser includes essential features like tab management, navigation controls, and a sleek Chrome-like interface.
+## 🌐 Electron Web Browser  
+---
+A modern, lightweight web browser built using [Electron](https://www.electronjs.org/). This browser includes essential features like tab management, navigation controls, and a sleek Chrome-like interface.  
+---
+## 🌟 Features  
+### 📂 Key Features  
+- **Tab Management**:  
+  - Create, close, and switch between multiple tabs.  
+  - Keyboard shortcut: `Ctrl + T` or `Cmd + T` for new tabs.  
+- **Navigation Controls**:  
+  - Back and forward buttons for navigation.  
+  - Refresh button for reloading the current page.  
+  - URL input field with automatic `https://` prefix addition.  
+  - Loading indicator for web pages.  
+- **User Interface**:  
+  - Modern, Chrome-inspired design.  
+  - Responsive layout.  
+  - Tab scrolling for handling multiple tabs.  
+  - Close (`×`) button on each tab for easy tab management.  
+- **Electron Integration**:  
+  - Proper `webview` implementation for accurate page rendering.  
+  - Native window management.  
+  - System-level integration.  
 
-🌟 Features
-📂 Key Features
-Tab Management:
-Create, close, and switch between multiple tabs.
-Keyboard shortcut: Ctrl + T or Cmd + T for new tabs.
-Navigation Controls:
-Back and forward buttons for navigation.
-Refresh button for reloading the current page.
-URL input field with automatic https:// prefix addition.
-Loading indicator for web pages.
-User Interface:
-Modern, Chrome-inspired design.
-Responsive layout.
-Tab scrolling for handling multiple tabs.
-Close (×) button on each tab for easy tab management.
-Electron Integration:
-Proper webview implementation for accurate page rendering.
-Native window management.
-System-level integration.
-⚙️ Technical Details
-Electron Version: v33.2.0
-Webview Tag: Enabled for rendering web pages.
-Node Integration: Enabled for seamless Electron functionality.
-Security: Content security restrictions are disabled for flexibility.
-🚀 Installation
-Clone the Repository
+## ⚙️ Technical Details  
+- **Electron Version**: v33.2.0  
+- **Webview Tag**: Enabled for rendering web pages.  
+- **Node Integration**: Enabled for seamless Electron functionality.  
+- **Security**: Content security restrictions are disabled for flexibility. 
+---
+## 🚀 Installation  
 
-bash
-Copy code
-git clone https://github.com/your-repo/electron-web-browser.git  
-cd electron-web-browser  
+1. **Clone the Repository**  
+   ```bash  
+   git clone https://github.com/your-repo/electron-web-browser.git  
+   cd electron-web-browser  
 Install Dependencies
-
-bash
-Copy code
 npm install  
+---
 Run the Browser
-
-bash
-Copy code
 npm start  
+---
 📁 Project Structure
-r
+plaintext
 Copy code
 electron-web-browser/
 ├── src/
@@ -64,6 +62,7 @@ Favicon Support: Display site-specific icons in tabs.
 Search Engine Integration: Enable search queries directly from the URL bar.
 Extensions Support: Add support for browser extensions.
 Better Documentation: Expand this README with troubleshooting steps and more detailed guides.
+---
 🤝 Contributing
 Contributions are welcome! To contribute:
 
@@ -71,9 +70,10 @@ Fork the repository.
 Create a feature branch.
 Make changes and test thoroughly.
 Submit a pull request.
+---
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
+---
 🙌 Acknowledgments
 Electron for the framework.
 Open-source libraries and tools used in the project.
