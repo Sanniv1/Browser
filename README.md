@@ -50,6 +50,7 @@ electron-web-browser/
 │   ├── assets/            # Images, styles, and icons
 ├── package.json           # Project configuration
 └── README.md              # Project documentation
+--
 🛠️ Missing Features / Potential Improvements
 Bookmarks System: Allow users to save and manage bookmarks.
 History Tracking: Keep a record of visited websites.
