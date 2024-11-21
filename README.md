@@ -41,8 +41,7 @@ Run the Browser
 npm start  
 ---
 📁 Project Structure
-plaintext
-Copy code
+---
 electron-web-browser/
 ├── src/
 │   ├── main.js            # Main process
