@@ -65,7 +65,7 @@ Better Documentation: Expand this README with troubleshooting steps and more det
 ---
 🤝 Contributing
 Contributions are welcome! To contribute:
-
+---
 Fork the repository.
 Create a feature branch.
 Make changes and test thoroughly.
@@ -77,3 +77,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 🙌 Acknowledgments
 Electron for the framework.
 Open-source libraries and tools used in the project.
+---
